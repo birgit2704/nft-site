@@ -1,4 +1,6 @@
-# co64d4976b0087a3fa04680bc
+# nft-site  
+css practice project during the scrimba Frontend Developer Career Path  
+![screenshot](screenshot.jpg)
 
 Quick start:
 
